@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GDZATOR</string>
+    <string name="action_settings">Настройки</string>
+
+    <string-array name="classes">
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+
+    <string-array name="classes_format">
+        <item>5 класс</item>
+        <item>6 класс</item>
+        <item>7 класс</item>
+        <item>8 класс</item>
+        <item>9 класс</item>
+        <item>10 класс</item>
+        <item>11 класс</item>
+    </string-array>
+
+    <string-array name="purchase_keys">
+        <item>com.gdzator.class5</item>
+        <item>com.gdzator.class6</item>
+        <item>com.gdzator.class7</item>
+        <item>com.gdzator.class8</item>
+        <item>com.gdzator.class9</item>
+        <item>com.gdzator.class10</item>
+        <item>com.gdzator.class11</item>
+    </string-array>
+
+    <!-- StartFragment -->
+    <string name="select_class">Выбрать класс</string>
+    <string name="my_library">Моя библиотека</string>
+    <string name="settings">Настройки</string>
+    <string name="info">Информация</string>
+    <string name="feedback">Обратная связь</string>
+
+    <string name="clazz">класс</string>
+    <string name="buy_class">Отключить рекламу</string>
+    <string name="class_price">Всего 49 рублей!</string>
+    <string name="loading">Загрузка...</string>
+
+    <string name="search">Поиск</string>
+    <string name="send">Отправить</string>
+
+    <string name="need_buy">Для дальнейшего просмотра вам необходимо купить класс %s</string>
+    <string name="purchase_success">Покупка прошла успешно</string>
+
+    <string name="feedback_text">Если у вас есть предложение или вопросы заполните форму внизу:</string>
+
+    <string name="info_text">Серия «Готовые домашние задания» по всем предметам школьной программы организована по единому принципу: задача (вопрос) или упражнение в учебнике – решение (развернутый ответ) или выполненное упражнение в решебнике.
+\n\n
+В приложении содержатся:
+\n\n
+- ответы на вопросы параграфов учебника,
+\n\n
+- разбор и решения задач и тестов,
+\n\n
+- выполнение упражнений (с обозначением фонетического и морфологического разборов),
+\n\n
+- образцы оформления всех лабораторных и практических работ,
+\n\n
+- образцы выполнения заданий из рабочих тетрадей, книг для чтения,
+\n\n
+- тексты сочинений по темам, предложенным в учебнике и др.
+\n\n
+Содержание Готовых домашних заданий регулярно обновляется и дорабатывается с учетом изменений учебников в соответствии с Федеральным государственным образовательным стандартом общего образования. Для предотвращения путаницы в решебнике принята система обозначений заданий из двух номеров: первый – номер задания в новом издании учебника, второе – номер задания в предыдущих редакциях учебника.
+\n\n
+Использовать «Готовые домашние задания» рекомендуется для проверки правильности выполнения домашних работ. Если при выполнении домашней работы возникли затруднения, не следует бездумно переписывать задания из решебника в рабочую тетрадь, рекомендуется посмотреть ход выполнения задания или решения задачи и, после этого, самостоятельно выполнить задание. Для уверенности в правильности выполнения домашней работы можно сверить свои ответы с ответами, данными в приложении.
+\n\n
+Желаем Вам успехов и отличных оценок!</string>
+    <string name="send_mail">Отправить письмо...</string>
+    <string name="off_ads">Отключить рекламу</string>
+
+</resources>

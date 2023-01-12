@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="135dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/button">
+
+        <ImageView
+            android:layout_width="75dp"
+            android:layout_height="105dp"
+            android:id="@+id/img"
+            android:layout_marginLeft="15dp"
+            android:layout_gravity="center_vertical"
+            android:scaleType="centerCrop" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="113dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginBottom="15dp">
+
+            <com.gdzator.widget.CustomFontTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/name"
+                app:typeface="OpenSans-Regular.ttf"
+                android:textColor="#0194da"
+                android:textSize="18sp"
+                android:layout_marginBottom="12dp" />
+
+            <com.gdzator.widget.CustomFontTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/author"
+                app:typeface="OpenSans-Regular.ttf"
+                android:textColor="#7f8c8d"
+                android:textSize="11sp" />
+
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>
